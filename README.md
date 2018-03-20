@@ -1,6 +1,6 @@
 # Twillow
 
-You need more followers on Twitter ? Make yourself known through a script that makes you follow every user's followers
+You need more followers on Twitter ? Make yourself known through a script that makes you follow user's followers
 
 ## Getting Started
 
@@ -30,11 +30,11 @@ Alright the script is good to go!
 
 ### How it works
 
-The script is very simple. If you want to follow every followers of `elonmusk` account:
+The script is very simple. If you want to follow followers of `elonmusk` account:
 
 ```
 $> python main.rb elonmusk
->> You are now following every followers of elonmusk
+>> You are now following followers of elonmusk
 ```
 
 Great! Now you're following users who are following Elon musk
